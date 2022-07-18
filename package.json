@@ -1,6 +1,6 @@
 {
   "name": "twitterbot",
-  "version": "1.7.5",
+  "version": "1.2.0",
   "description": "Twiiter Bot",
   "main": "./config.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mayeedwin/twitterbot"
+    "url": "https://github.com/JsSodre/cadeira_bot"
   },
   "keywords": [
     "cadeira"
   ],
-  "author": "Maye Edwin",
+  "author": "João Sodré",
   "license": "MIT",
   "dependencies": {
     "twit": "^2.2.11"
